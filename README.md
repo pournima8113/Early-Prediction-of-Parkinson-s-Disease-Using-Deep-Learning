@@ -5,23 +5,27 @@ This project uses deep learning techniques to detect Parkinson's Disease from bi
 🧠 Project Overview
 The goal of this project is to build a deep learning model that can accurately classify individuals as healthy or affected by Parkinson’s disease using voice data. The project involves:
 * Data preprocessing
-* Model building using deep learning (e.g., ANN/CNN)
+* Model building using deep learning (CNN)
 * Training and evaluation
 * Visualization of results
 
 📂 Dataset
-* Source: UCI Machine Learning Repository – Parkinson’s Dataset
-* Features: 22 voice measurements like MDVP:Fo(Hz), MDVP:Shimmer, HNR, etc.
+* Source: Parkinson’s Dataset
+* Features: 40 MRI Images
 * Target: status (1 = Parkinson’s, 0 = Healthy)
 
 🧪 Technologies Used
-* Language: Python
+* Language: Python, CSS, HTML, Javascript
 * Libraries:
-  * NumPy, Pandas (Data handling)
-  * Matplotlib, Seaborn (Visualization)
+  * NumPy
+  * Matplotlib
   * Scikit-learn (Preprocessing, Evaluation)
   * TensorFlow / Keras (Model building)
   * Jupyter Notebook (Development environment)
+  * CV2
+  * SciPy
+  * Flask
+ * Database: phpMyAdmin (MySQL)
 
 📊 Model Performance
 * Accuracy: ~95% (can vary with tuning)
@@ -41,4 +45,3 @@ The goal of this project is to build a deep learning model that can accurately c
 
 📄 License
 * This project is open-source and available under the MIT License.
-
