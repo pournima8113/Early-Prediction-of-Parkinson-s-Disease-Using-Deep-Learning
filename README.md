@@ -39,9 +39,9 @@ The goal of this project is to build a deep learning model that can accurately c
 * Deploying the model as a web or mobile app
 
 🙋‍♀️ Contributors
-* Pournima Akole – LinkedIn | GitHub
-* Anuja Koshti – LinkedIn | GitHub
-* Durva Zope – LinkedIn | GitHub
+* Pournima Akole –
+* Anuja Koshti –
+* Durva Zope –
 
 📄 License
 * This project is open-source and available under the MIT License.
